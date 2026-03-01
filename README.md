@@ -1,9 +1,9 @@
-# 📊 Retail Sales Analytics & Automation in Excel  
+#  Retail Sales Analytics & Automation in Excel  
 Interactive Dashboard + Statistical Analysis + VBA Data Entry  
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 A retail company needed a centralized analytics solution to monitor sales performance, understand return behavior, and reduce manual reporting effort.  
 
@@ -34,7 +34,7 @@ Without a centralized analytics solution, reporting required manual effort and l
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ![Dashboard](assets/dashboard.png)
 
@@ -86,7 +86,7 @@ The dashboard allows filtering by:
 
 ---
 
-# 🧾 Data Entry Automation (VBA)
+#  Data Entry Automation (VBA)
 
 ![Sales Form](assets/sales_form.png)
 
@@ -100,7 +100,7 @@ The Sales Form:
 
 ---
 
-# 📊 Statistical Analysis
+#  Statistical Analysis
 
 ![Analysis](assets/analysis.png)
 
@@ -116,7 +116,7 @@ The Sales Form:
 
 ---
 
-## 📈 Results & Business Recommendations
+##  Results & Business Recommendations
 
 The analysis revealed a clear relationship between delivery delays and product returns.
 
@@ -130,19 +130,19 @@ Stakeholders can now self-serve insights and make faster decisions without manua
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
-### 📊 Excel & Analytics
+###  Excel & Analytics
 - PivotTables & Slicers  
 - Advanced formulas (VLOOKUP, TEXT, DATEDIF, IFERROR)  
 - Conditional formatting  
 - Data Analysis Toolpak  
 
-### 🤖 Automation
+###  Automation
 - VBA macro development  
 - Automated data refresh workflow  
 
-### 📈 Business Analytics
+###  Business Analytics
 - KPI development  
 - Dashboard storytelling  
 - Statistical hypothesis testing  
@@ -161,7 +161,7 @@ Stakeholders can now self-serve insights and make faster decisions without manua
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Replace VLOOKUP with XLOOKUP  
 - Add automated monthly reporting export  
